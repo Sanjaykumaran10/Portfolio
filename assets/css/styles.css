@@ -332,7 +332,9 @@ body.light-theme{
 }
 
 .home__img{
-  width:260px;
+ width: 311px;
+  max-width: none;
+  padding-left: 35px;
 }
 
 .home__handle{
@@ -1062,7 +1064,7 @@ border-radius: .5rem;
 }
 
 .home__img{
-  width: 220px;
+  width: 400px;
 }
 .home__social-link{
   padding: .4rem;
